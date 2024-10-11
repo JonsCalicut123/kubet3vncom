@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+KUBET - Nền Tảng Giải Trí Cá Cược Đẳng Cấp Không Rào Cản
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KUBET <https://kubet3vn.com/>`_ là một nền tảng giải trí đẳng cấp, mang đến cho người chơi cơ hội cá cược mà không gặp phải rào cản nào. KUBET thu hút hơn 10 triệu thành viên nhờ giao diện rõ ràng, đa dạng các sản phẩm như Đá gà online, xổ số, bắn cá, Live Casino, và cá cược thể thao. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Hệ thống còn cung cấp các chương trình ưu đãi hấp dẫn và phương thức giao dịch tiện lợi. Với công nghệ bảo mật hiện đại và đội ngũ hỗ trợ 24/7, KUBET đảm bảo mang lại trải nghiệm an toàn, chất lượng, và thú vị cho người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 297 HL80B, Hiệp Thành, Quận 12, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0787462152. 
 
-.. toctree::
+Email: info@kubet3vn.com. 
 
-   usage
-   api
+Website: https://kubet3vn.com/ 
+
+#kubet #trangchukubet #dangkykubet #dangnhapkubet #linkkubet #naptienkubet #ruttienkubet
